@@ -1,0 +1,13 @@
+diffusers==0.20.0
+transformers==4.33.1
+accelerate==0.22.0
+scipy
+safetensors
+pyyaml
+pydantic
+dadaptation
+lion-pytorch
+prodigyopt
+wandb
+omegaconf
+invisible-watermark==0.2.0
